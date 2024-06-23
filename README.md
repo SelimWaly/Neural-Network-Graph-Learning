@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/banner.png" width="80%" height="80%">
+    <img src="./assets/banner-2.png" width="80%" height="80%">
 </p>
 
 <h2 align="center">Neural Network Graph Learning</h2>
